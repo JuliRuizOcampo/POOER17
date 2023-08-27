@@ -11,7 +11,7 @@ public class POOER17 {
         int n, num = 1, suma = 0;
         
         Scanner lector = new Scanner(System.in);
-        System.out.println("Ingrese el número natural hasta el cual desea realizar la suma: ");
+        System.out.println("Ingrese el numero natural hasta el cual desea realizar la suma: ");
         n = lector.nextInt();
         
         //Procedimiento de la suma
